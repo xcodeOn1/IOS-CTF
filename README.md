@@ -1,17 +1,16 @@
 # IOS-CTF
-There is 3 Flags found Them if you can ˆˆ
 
-By : @xcode0x
+There are 3 flags. Find them if you can ˆˆ
+
+By: @xcode0x
 
 # Requirements
-
-- Linux Or Mac OS
-
-- if you want test app in ios it should be 15+ (Don't Need) (Jailbreak IOS)
+- Linux or macOS
+- If you want to test the app on iOS, it should be version 15 or higher. (Not Required) (Jailbreak iOS)
 
 # Rules
 
-- Mobsf Not allowd .
+- MobSF is not allowed.
 
 # App 
 ![Script](https://github.com/xcodeOn1/IOS-CTF/blob/main/app.jpg)
